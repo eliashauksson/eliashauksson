@@ -1,4 +1,4 @@
-### Hi there, I'm Elias 👋
+### Hi there, I'm Elías 👋
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/el%C3%ADas-hauksson-1939b31b8/)
 
