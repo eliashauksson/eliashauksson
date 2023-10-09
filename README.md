@@ -1,8 +1,13 @@
-### Hi there, I'm Elías 👋
+# Thanks for stopping by
 
-[![Website](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](http://www.eliashauksson.com)
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/el%C3%ADas-hauksson-1939b31b8/)
-[![Strava](https://img.shields.io/badge/Strava-FC4C02?style=for-the-badge&logo=strava&logoColor=white)](https://www.strava.com/athletes/39041574)
+At any time, you can find out more about me by visiting my website at [eliashauksson.com](http://www.eliashauksson.com)
 
-[![Elias' github stats](https://github-readme-stats.vercel.app/api?username=eliashauksson&count_private=true&show_icons=true&theme=default&hide_rank=false)](https://github.com/eliashauksson)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eliashauksson&layout=compact)](https://github.com/eliashauksson)
+<hr>
+
+<p align="center">
+	<img width="450em" src="https://github-readme-streak-stats.herokuapp.com/?user=eliashauksson&include_all_commits=true&hide_border=true&theme=dark"/>
+</p>
+
+<p align="center">
+	<img width="450em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eliashauksson&layout=compact&custom_title=Most%20used%20languages&langs_count=10&include_all_commits=true&hide_progress=false&hide_border=true&theme=dark&hide=">
+</p>
